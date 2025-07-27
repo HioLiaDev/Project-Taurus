@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         GeoFS AI Bot
-// @namespace    https://yourgithubusername.github.io/
+// @namespace    https://hioliadev.github.io/
 // @version      0.1
 // @description  Basic AI bot to take off, fly, and land in GeoFS
 // @author       You
 // @match        https://www.geo-fs.com/*
 // @grant        none
 // @run-at       document-idle
-// @updateURL    https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/geofs-ai-bot/main/geofs-ai-bot.user.js
-// @downloadURL  https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/geofs-ai-bot/main/geofs-ai-bot.user.js
+// @updateURL    https://raw.githubusercontent.com/hioliadev/geofs-ai-bot/main/geofs-ai-bot.user.js
+// @downloadURL  https://raw.githubusercontent.com/hioliadev/geofs-ai-bot/main/geofs-ai-bot.user.js
 // ==/UserScript==
 
 (function () {
